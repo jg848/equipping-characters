@@ -1,0 +1,352 @@
+Initializing Game.
+Creating character 'Goku'.
+Creating character 'Vegeta'.
+Creating character 'Gohan'.
+Creating headgear 'Potara'.
+Creating headgear 'Shades'.
+Creating footwear 'Boots'.
+Creating footwear 'Sandals'.
+Creating handgear 'Sword'.
+Creating handgear 'Gloves'.
+Creating jewelry 'Scouter'.
+Creating jewelry 'Radar'.
+Building Game.
+Printing characters created.
+Character [
+characterName=Goku, characterDescription=Martial Artist, hitpoints=1500, currentAttackPower=1000, currentDefensePower=500, 
+]
+Character [
+characterName=Vegeta, characterDescription=King, hitpoints=1500, currentAttackPower=900, currentDefensePower=600, 
+]
+Character [
+characterName=Gohan, characterDescription=Scholor, hitpoints=1200, currentAttackPower=800, currentDefensePower=400, 
+]
+
+Populating chest from available clothing.
+Dressing characters with clothing from chest.
+
+Goku discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=false]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=false]
+Goku discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Vegeta discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=false]
+Vegeta discarded 
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=false]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Vegeta discarded 
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=false]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Gohan discarded 
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=false]
+Gohan discarded 
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=false]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Gohan discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Predicting battle between 'Goku' and 'Vegeta'
+Prediction starts.
+Number of rounds lasted by Goku: 2
+Number of rounds lasted by Vegeta: 7
+Winner: Vegeta
+Do you want a rematch between 'Goku' and 'Vegeta' ? (Y/N)
+y
+Initializing rematch between 'Goku' and 'Vegeta'.
+
+
+Goku discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+Goku discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+Goku discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+Goku discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+Goku discarded 
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+HeadGear [clothingName=Potara, clothingDescription=Fusion, clothingMode=DEFENSE, clothingPower=200, isCursed=false, maxUsage=3, isWornOut=false]
+Vegeta discarded 
+HandGear [clothingName=Gloves, clothingDescription=Power, clothingMode=DEFENSE, clothingPower=600, isCursed=false, maxUsage=1, isWornOut=true]
+and replaced with
+HeadGear [clothingName=Potara, clothingDescription=Fusion, clothingMode=DEFENSE, clothingPower=200, isCursed=false, maxUsage=3, isWornOut=false]
+Vegeta discarded 
+HandGear [clothingName=Gloves, clothingDescription=Power, clothingMode=DEFENSE, clothingPower=600, isCursed=false, maxUsage=1, isWornOut=true]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=false]
+Vegeta discarded 
+HandGear [clothingName=Gloves, clothingDescription=Power, clothingMode=DEFENSE, clothingPower=600, isCursed=false, maxUsage=1, isWornOut=true]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=false]
+Gohan discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+Gohan discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+Gohan discarded 
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Gohan discarded 
+Jewelry [clothingName=Scouter, clothingDescription=Tracking, clothingMode=DEFENSE, clothingPower=200, isCursed=true, maxUsage=5, isWornOut=true]
+and replaced with
+HeadGear [clothingName=Potara, clothingDescription=Fusion, clothingMode=DEFENSE, clothingPower=200, isCursed=false, maxUsage=3, isWornOut=false]
+Gohan discarded 
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Gohan discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+Prediction starts.
+Number of rounds lasted by Goku: 0
+Number of rounds lasted by Vegeta: 0
+Match Tied.
+
+Do you want a rematch between 'Goku' and 'Vegeta' ? (Y/N)
+y
+Initializing rematch between 'Goku' and 'Vegeta'.
+
+
+Goku discarded 
+Jewelry [clothingName=Scouter, clothingDescription=Tracking, clothingMode=DEFENSE, clothingPower=200, isCursed=true, maxUsage=5, isWornOut=true]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=false]
+Goku discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=false]
+Goku discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=false]
+Vegeta discarded 
+Jewelry [clothingName=Scouter, clothingDescription=Tracking, clothingMode=DEFENSE, clothingPower=200, isCursed=true, maxUsage=5, isWornOut=true]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=false]
+Vegeta discarded 
+Jewelry [clothingName=Scouter, clothingDescription=Tracking, clothingMode=DEFENSE, clothingPower=200, isCursed=true, maxUsage=5, isWornOut=true]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=false]
+Gohan discarded 
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Gohan discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+Gohan discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+Prediction starts.
+Number of rounds lasted by Goku: 2
+Number of rounds lasted by Vegeta: 0
+Winner: Goku
+
+Do you want a rematch between 'Goku' and 'Vegeta' ? (Y/N)
+n
+Rematch Declined. Proceeding.
+Predicting battle between 'Goku' and 'Gohan'
+Prediction starts.
+Number of rounds lasted by Goku: 0
+Number of rounds lasted by Gohan: 0
+Match Tied.
+Do you want a rematch between 'Goku' and 'Gohan' ? (Y/N)
+y
+Initializing rematch between 'Goku' and 'Gohan'.
+
+
+Goku discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+Goku discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+Goku discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Vegeta discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Prediction starts.
+Number of rounds lasted by Goku: 0
+Number of rounds lasted by Gohan: 0
+Match Tied.
+
+Do you want a rematch between 'Goku' and 'Gohan' ? (Y/N)
+y
+Initializing rematch between 'Goku' and 'Gohan'.
+
+
+Goku discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+HeadGear [clothingName=Potara, clothingDescription=Fusion, clothingMode=DEFENSE, clothingPower=200, isCursed=false, maxUsage=3, isWornOut=false]
+Goku discarded 
+Jewelry [clothingName=Scouter, clothingDescription=Tracking, clothingMode=DEFENSE, clothingPower=200, isCursed=true, maxUsage=5, isWornOut=true]
+and replaced with
+HeadGear [clothingName=Potara, clothingDescription=Fusion, clothingMode=DEFENSE, clothingPower=200, isCursed=false, maxUsage=3, isWornOut=false]
+Vegeta discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+HeadGear [clothingName=Potara, clothingDescription=Fusion, clothingMode=DEFENSE, clothingPower=200, isCursed=false, maxUsage=3, isWornOut=false]
+Gohan discarded 
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Gohan discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Prediction starts.
+Number of rounds lasted by Goku: 0
+Number of rounds lasted by Gohan: 0
+Match Tied.
+
+Do you want a rematch between 'Goku' and 'Gohan' ? (Y/N)
+y
+Initializing rematch between 'Goku' and 'Gohan'.
+
+
+Goku discarded 
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Goku discarded 
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+and replaced with
+HeadGear [clothingName=Potara, clothingDescription=Fusion, clothingMode=DEFENSE, clothingPower=200, isCursed=false, maxUsage=3, isWornOut=false]
+Goku discarded 
+HandGear [clothingName=Gloves, clothingDescription=Power, clothingMode=DEFENSE, clothingPower=600, isCursed=false, maxUsage=1, isWornOut=true]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=true]
+Goku discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+Vegeta discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Vegeta discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Vegeta discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Vegeta discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Vegeta discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Gohan discarded 
+Jewelry [clothingName=Scouter, clothingDescription=Tracking, clothingMode=DEFENSE, clothingPower=200, isCursed=true, maxUsage=5, isWornOut=true]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=true]
+Gohan discarded 
+HandGear [clothingName=Gloves, clothingDescription=Power, clothingMode=DEFENSE, clothingPower=600, isCursed=false, maxUsage=1, isWornOut=true]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=true]
+Prediction starts.
+Number of rounds lasted by Goku: 1
+Number of rounds lasted by Gohan: 3
+Winner: Gohan
+
+Do you want a rematch between 'Goku' and 'Gohan' ? (Y/N)
+n
+Rematch Declined. Proceeding.
+Predicting battle between 'Gohan' and 'Vegeta'
+Prediction starts.
+Number of rounds lasted by Gohan: 0
+Number of rounds lasted by Vegeta: 1
+Winner: Vegeta
+Do you want a rematch between 'Gohan' and 'Vegeta' ? (Y/N)
+y
+Initializing rematch between 'Gohan' and 'Vegeta'.
+
+
+Goku discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Goku discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+HeadGear [clothingName=Potara, clothingDescription=Fusion, clothingMode=DEFENSE, clothingPower=200, isCursed=false, maxUsage=3, isWornOut=true]
+Goku discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+Goku discarded 
+Jewelry [clothingName=Scouter, clothingDescription=Tracking, clothingMode=DEFENSE, clothingPower=200, isCursed=true, maxUsage=5, isWornOut=true]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=true]
+Goku discarded 
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=true]
+Vegeta discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=true]
+Vegeta discarded 
+HandGear [clothingName=Sword, clothingDescription=Light, clothingMode=ATTACK, clothingPower=800, isCursed=false, maxUsage=4, isWornOut=true]
+and replaced with
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+Gohan discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+HeadGear [clothingName=Shades, clothingDescription=Doom, clothingMode=DEFENSE, clothingPower=400, isCursed=true, maxUsage=1, isWornOut=true]
+Gohan discarded 
+Footwear [clothingName=Sandals, clothingDescription=Speed, clothingMode=ATTACK, clothingPower=200, isCursed=true, maxUsage=3, isWornOut=true]
+and replaced with
+Footwear [clothingName=Boots, clothingDescription=Flight, clothingMode=ATTACK, clothingPower=400, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+Gohan discarded 
+Jewelry [clothingName=Radar, clothingDescription=Tracking, clothingMode=ATTACK, clothingPower=700, isCursed=false, maxUsage=Unlimited, isWornOut=false]
+and replaced with
+HeadGear [clothingName=Potara, clothingDescription=Fusion, clothingMode=DEFENSE, clothingPower=200, isCursed=false, maxUsage=3, isWornOut=true]
+Prediction starts.
+Number of rounds lasted by Gohan: 0
+Number of rounds lasted by Vegeta: 3
+Winner: Vegeta
+
+Do you want a rematch between 'Gohan' and 'Vegeta' ? (Y/N)
+n
+Rematch Declined. Proceeding.
+Demonstration complete.
